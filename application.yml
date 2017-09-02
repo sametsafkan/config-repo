@@ -5,7 +5,7 @@ eureka:
 ---
 spring:
   profiles: subject
-words: Samet,Semih,Erdem,Hasan,Aysel,Mehmet
+words: I,He,She,It
 
 ---
 spring:
